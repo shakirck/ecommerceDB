@@ -1,36 +1,42 @@
 {
   "products": [
     {
+      "id": 1,
       "name": "Back Cover Case Designed for Samsung Galaxy Note 9 - Matte Black",
       "url": "https://images-eu.ssl-images-amazon.com/images/I/61YlbyQ-YrL._AC_UL270_SR270,270_.jpg",
       "rating": 3,
       "price": 634
     },
     {
+      "id": 2,
       "name": "Logitech M235 Wireless Mouse",
       "url": "https://m.media-amazon.com/images/I/71XmEoZ7p-L._AC_UY218_.jpg",
       "rating": 5,
       "price": 799
     },
     {
+      "id": 3,
       "name": "Logitech M235 Wireless Mouse Red",
       "url": "https://m.media-amazon.com/images/I/71h1d8wfq3L._AC_UY218_.jpg",
       "rating": 3,
       "price": 634
     },
     {
+      "id": 4,
       "name": "Back Cover Case Designed for Samsung Galaxy Note 9 - Matte Black",
       "url": "https://images-eu.ssl-images-amazon.com/images/I/61YlbyQ-YrL._AC_UL270_SR270,270_.jpg",
       "rating": 3,
       "price": 634
     },
     {
+      "id": 5,
       "name": "Back Cover Case Designed for Samsung Galaxy Note 9 - Matte Black",
       "url": "https://images-eu.ssl-images-amazon.com/images/I/61YlbyQ-YrL._AC_UL270_SR270,270_.jpg",
       "rating": 3,
       "price": 534
     },
     {
+      "id": 6,
       "name": "Laptop lenov",
       "url": "https://m.media-amazon.com/images/I/71OK3BgIRYL._AC_UY218_.jpg",
       "rating": 4,
