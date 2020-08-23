@@ -5,42 +5,48 @@
       "name": "Back Cover Case Designed for Samsung Galaxy Note 9 - Matte Black",
       "url": "https://images-eu.ssl-images-amazon.com/images/I/61YlbyQ-YrL._AC_UL270_SR270,270_.jpg",
       "rating": 3,
-      "price": 634
+      "price": 634,
+      "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged"
     },
     {
       "id": 2,
       "name": "Logitech M235 Wireless Mouse",
       "url": "https://m.media-amazon.com/images/I/71XmEoZ7p-L._AC_UY218_.jpg",
       "rating": 5,
-      "price": 799
+      "price": 799,
+      "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged"
     },
     {
       "id": 3,
       "name": "Logitech M235 Wireless Mouse Red",
       "url": "https://m.media-amazon.com/images/I/71h1d8wfq3L._AC_UY218_.jpg",
       "rating": 3,
-      "price": 634
+      "price": 634,
+      "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged"
     },
     {
       "id": 4,
       "name": "Back Cover Case Designed for Samsung Galaxy Note 9 - Matte Black",
       "url": "https://images-eu.ssl-images-amazon.com/images/I/61YlbyQ-YrL._AC_UL270_SR270,270_.jpg",
       "rating": 3,
-      "price": 634
+      "price": 634,
+      "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged"
     },
     {
       "id": 5,
       "name": "Back Cover Case Designed for Samsung Galaxy Note 9 - Matte Black",
       "url": "https://images-eu.ssl-images-amazon.com/images/I/61YlbyQ-YrL._AC_UL270_SR270,270_.jpg",
       "rating": 3,
-      "price": 534
+      "price": 534,
+      "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged"
     },
     {
       "id": 6,
       "name": "Laptop lenov",
       "url": "https://m.media-amazon.com/images/I/71OK3BgIRYL._AC_UY218_.jpg",
       "rating": 4,
-      "price": 42634
+      "price": 426,
+      "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged"34
     }
   ]
 }
